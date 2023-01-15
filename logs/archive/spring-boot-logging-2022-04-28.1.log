@@ -1,0 +1,18 @@
+2022-04-28 15:42:16,255 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-04-28 15:42:16,260 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 649 ms
+2022-04-28 15:42:16,375 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-28 15:42:16,499 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-28 15:42:16,502 INFO org.springframework.boot.StartupInfoLogger [main] Started LogApplication in 1.302 seconds (JVM running for 2.081)
+2022-04-28 15:42:23,507 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-28 15:42:23,508 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-04-28 15:42:23,510 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 2 ms
+2022-04-28 15:42:23,522 INFO LogEndpoint [http-nio-8080-exec-1] get details methodu basladi
+2022-04-28 15:42:23,522 DEBUG LogEndpoint [http-nio-8080-exec-1] internalLogDetail methodu basladi
+2022-04-28 15:45:24,548 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-04-28 15:45:27,950 INFO org.springframework.boot.StartupInfoLogger Starting LogApplication on TC19885556 with PID 2500 (D:\Dev\spring-boot-logging\target\classes started by TCSATAS in D:\Dev\spring-boot-logging)
+2022-04-28 15:45:27,954 INFO org.springframework.boot.SpringApplication The following profiles are active: dev
+2022-04-28 15:45:28,505 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2022-04-28 15:45:28,510 INFO org.apache.juli.logging.DirectJDKLog Starting service [Tomcat]
+2022-04-28 15:45:28,511 INFO org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-04-28 15:45:28,600 INFO org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext
+2022-04-28 15:45:28,600 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 605 ms
